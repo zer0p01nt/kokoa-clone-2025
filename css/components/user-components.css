@@ -66,3 +66,14 @@
   position: relative;
   top: 9.5px;
 }
+
+.user-component__text span {
+  position: relative;
+  display: flex;
+}
+
+.user-component__text span > i {
+  position: absolute;
+  left: 152px;
+  top: 8px;
+}
